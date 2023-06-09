@@ -1,0 +1,6 @@
+{
+    "docify.commentService.inlineComments": true,
+    "docify.commentService.docstringFormat": "JsDoc",
+    "docify.commentService.moreExpressiveComments": false,
+    "docify.commentService.sidePanelReviewMode": false
+}
