@@ -1,0 +1,68 @@
+/* Customize the styling as per your design preferences */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #filters {
+    margin-bottom: 20px;
+  }
+  
+  #gameList {
+    margin-bottom: 20px;
+  }
+  
+  #randomGames {
+    margin-bottom: 20px;
+  }
+  
+  .game-entry {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .game-entry img {
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+  }
+  
+  .played {
+    font-weight: bold;
+  }
+  
+  .note-container {
+    margin-top: 10px;
+  }
+  
+  .note-container textarea {
+    width: 100%;
+    min-height: 80px;
+  }
+  
+  button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
